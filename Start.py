@@ -15,6 +15,7 @@ def login():
     print("Enter password : ")
     answer2=input()
     if answer1==username and answer2==password:
+        os.system('clear')
         print("Welcome - Access Granted")
         menu()
 
