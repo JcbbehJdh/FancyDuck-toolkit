@@ -7,14 +7,15 @@ This is a simple tool kit for hackers you can modify it add tools and do what ev
 
 3.Then BAM done 
 
-
-You have to install tor and activate it by service tor start
-
-
 Or you can use the default 
 
 FancyDuck
 
 1234567890
+
+What is this tool?
+This tool is for penetracing testers or just for fun it has facebook cracking ,twitter hacking,ddos and
+a decrypter and encrypter tool :)
+
 
 you can support me through bitcoin : bc1q5crrg4cflydu8qhgwm3xknt8ayceyftamnf4g7
