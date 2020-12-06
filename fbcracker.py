@@ -11,7 +11,7 @@ import os
 os.system('clear')
 
 
-email = str(raw_input("Enter the Facebook Username (or) Email (or) Phone Number : "))
+email = str(raw_input("Enter the Facebook Username (or) Email you noob : "))
 
 
 passwordlist = str(raw_input("Enter the wordlist name and path : "))
