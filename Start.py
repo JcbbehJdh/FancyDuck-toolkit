@@ -49,21 +49,7 @@ def menu():
         print("Please try again")
         menu()
 
-def enterstudentdetails():
-    pass
 
-
-def viewstudentdetails():
-    pass
-
-
-def searchbyid():
-    pass
-    
-
-def producereports():
-    pass
-    
     
     
 #the program is initiated, so to speak, here
