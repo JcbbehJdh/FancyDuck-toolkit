@@ -50,23 +50,19 @@ def menu():
 
 def enterstudentdetails():
     pass
-    #Teacher will enter student details manually
-    #These will be appended to the csv file
+
 
 def viewstudentdetails():
     pass
-#Teacher can press a button to view all students at a glance
+
 
 def searchbyid():
     pass
-    #Teacher can input an ID number and display the relevant student's details
+    
 
 def producereports():
     pass
-    #Teacher can produce clever reports such as:
-    #a) list of names of males and email addresses (to email a reminder about boys football club)
-    #b) list of names of females in specific postcode (to remind them of a girls coding club in the area)
-    #c) list of all names, birthdays and addresses (to send out birthday cards!)
+    
     
     
 #the program is initiated, so to speak, here
