@@ -1,4 +1,4 @@
-#Form Tutor Management System
+#This is AN awesome tool :>
 
 import os
 import sys #this allows you to use the sys.exit command to quit/logout of the application
