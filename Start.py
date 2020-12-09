@@ -31,6 +31,7 @@ def menu():
                       C: DDOS
                       D: FaceBook cracker
                       E: Deadmans switch twitter
+                      F: Bitcoin hack
                       Q: Quit/Log Out
 
                       Please enter your choice: """)
@@ -45,6 +46,8 @@ def menu():
         os.system('python fbcracker.py')
     elif choice == "E" or choice == "e"
        os.system('python3 lol.py')
+    elif choice == "F" or choice == "f"
+       os.system('python3 bruteforce.py')            
     elif choice=="Q" or choice=="q":
         sys.exit
     else:
