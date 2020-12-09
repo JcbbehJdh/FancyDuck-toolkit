@@ -1,4 +1,4 @@
-#This is AN awesome tool :>
+#Form Tutor Management System
 
 import os
 import sys #this allows you to use the sys.exit command to quit/logout of the application
@@ -15,7 +15,6 @@ def login():
     print("Enter password : ")
     answer2=input()
     if answer1==username and answer2==password:
-        os.system('clear')
         print("Welcome - Access Granted")
         menu()
 
@@ -30,8 +29,8 @@ def menu():
                       B: Twitter hack
                       C: DDOS
                       D: FaceBook cracker
-                      E: Deadmans switch twitter
-                      F: Bitcoin hack
+                      E: Dead mans switch/for twitter
+                      F:Hack bitcoin wallet
                       Q: Quit/Log Out
 
                       Please enter your choice: """)
@@ -44,10 +43,10 @@ def menu():
        os.system('python fancyddos.py')
     elif choice=="D" or choice=="d":
         os.system('python fbcracker.py')
-    elif choice == "E" or choice == "e"
+    elif choice== "E" or choice =="e":
        os.system('python3 lol.py')
-    elif choice == "F" or choice == "f"
-       os.system('python3 bruteforce.py')            
+    elif choice == "F" or choice =="f":
+       os.system('python3 bruteforce.py')
     elif choice=="Q" or choice=="q":
         sys.exit
     else:
@@ -56,8 +55,5 @@ def menu():
         menu()
 
 
-    
-    
-#the program is initiated, so to speak, here
 main()
 
