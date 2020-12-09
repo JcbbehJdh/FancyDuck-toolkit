@@ -15,7 +15,7 @@ FancyDuck
 
 What is this tool?
 This tool is for penetracing testers or just for fun it has facebook cracking ,twitter hacking,ddos and
-a decrypter and encrypter tool :)
+a decrypter and encrypter tool and a bitcoin hacker tool :)
 
 
-you can support me through bitcoin : bc1q5crrg4cflydu8qhgwm3xknt8ayceyftamnf4g7
+you can support me through bitcoin : 12ND8pgj7WGGq6SUu9nwDbsmD6qT2D14E3
