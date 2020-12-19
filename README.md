@@ -7,7 +7,7 @@ This is a simple tool kit for hackers you can modify it add tools and do what ev
 
 3.Then BAM done 
 
-Or you can use the default 
+defult username and password
 
 FancyDuck
 
