@@ -28,9 +28,9 @@ def menu():
                       A: Decrypt/encrypt files
                       B: Twitter hack
                       C: DDOS
-                      D: FaceBook cracker
+                      D: #Empty#
                       E: Dead mans switch/for twitter
-                      F:Hack bitcoin wallet
+                      F: Hack bitcoin wallet
                       Q: Quit/Log Out
 
                       Please enter your choice: """)
