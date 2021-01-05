@@ -28,9 +28,9 @@ def menu():
                       A: Decrypt/encrypt files
                       B: Twitter hack
                       C: DDOS
-                      D: #Empty#
+                      D: bruteforcessh
                       E: Dead mans switch/for twitter
-                      F: Hack bitcoin wallet
+                      F: #empty#
                       Q: Quit/Log Out
 
                       Please enter your choice: """)
@@ -42,11 +42,11 @@ def menu():
     elif choice == "C" or choice =="c":
        os.system('python fancyddos.py')
     elif choice=="D" or choice=="d":
-        os.system('python fbcracker.py')
+        os.system('python bruteforcessh.py')
     elif choice== "E" or choice =="e":
        os.system('python3 lol.py')
     elif choice == "F" or choice =="f":
-       os.system('python3 bruteforce.py')
+       sys.exit
     elif choice=="Q" or choice=="q":
         sys.exit
     else:
