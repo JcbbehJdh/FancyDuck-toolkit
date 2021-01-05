@@ -44,13 +44,13 @@ def menu():
     elif choice=="D" or choice=="d":
         os.system('python bruteforcessh.py')
     elif choice== "E" or choice =="e":
-       os.system('python3 lol.py')
+       os.system('python3 deadswitch')
     elif choice == "F" or choice =="f":
        sys.exit
     elif choice=="Q" or choice=="q":
         sys.exit
     else:
-        print("You must only select either A,B,C, or D.")
+        print("You must only select an option retard")
         print("Please try again")
         menu()
 
