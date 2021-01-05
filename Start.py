@@ -42,7 +42,7 @@ def menu():
     elif choice == "C" or choice =="c":
        os.system('python fancyddos.py')
     elif choice=="D" or choice=="d":
-        os.system('python brutessh.py')
+        os.system('python3 brutessh.py')
     elif choice== "E" or choice =="e":
        os.system('python3 deadswitch')
     elif choice == "F" or choice =="f":
