@@ -30,7 +30,7 @@ def menu():
                       C: DDOS
                       D: bruteforcessh
                       E: Dead mans switch/for twitter
-                      F: #empty#
+                      F: portscanner : it sucks
                       Q: Quit/Log Out
 
                       Please enter your choice: """)
@@ -46,7 +46,7 @@ def menu():
     elif choice== "E" or choice =="e":
        os.system('python3 deadswitch')
     elif choice == "F" or choice =="f":
-       sys.exit
+       os.system('python3 portscanner.py')
     elif choice=="Q" or choice=="q":
         sys.exit
     else:
