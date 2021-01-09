@@ -26,7 +26,7 @@ def menu():
 
     choice = input("""
                       A: Decrypt/encrypt files
-                      B: Twitter hack
+                      B: Zipcrack
                       C: DDOS
                       D: bruteforcessh
                       E: Dead mans switch/for twitter
@@ -38,7 +38,7 @@ def menu():
     if choice == "A" or choice =="a":
        os.system('python3 Decrypt.py')
     elif choice == "B" or choice =="b":
-       os.system ('sudo bash twithack.sh') 
+       os.system ('python3 zipcrack.py') 
     elif choice == "C" or choice =="c":
        os.system('python fancyddos.py')
     elif choice=="D" or choice=="d":
