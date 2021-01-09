@@ -20,4 +20,4 @@ with open(wordlist, "rb") as wordlist:
         else:
             print("[+] Password cracked:", word.decode().strip())
             exit(0)
-print("[!] Invalid password.")
+print("[!] Password not Found.")
