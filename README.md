@@ -14,7 +14,7 @@ FancyDuck
 1234567890
 
 What is this tool?
-This tool is for penetracing testers or just for fun it has facebook cracking ,twitter hacking,ddos and
+This tool is for penetracing testers or just for fun it has ddos and
 a decrypter and encrypter tool. It also has a bruteforcessh tool and zip file cracker
 
 
