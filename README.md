@@ -18,5 +18,6 @@ This tool is for penetracing testers or just for fun it has ddos and
 a decrypter and encrypter tool. It also has a bruteforcessh tool and zip file cracker
 
 
+recent:///080623c7ec07bd21b1b9dfaa600b35ac
 
-you can support me through bitcoin : 12ND8pgj7WGGq6SUu9nwDbsmD6qT2D14E3
+
